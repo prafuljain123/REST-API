@@ -1,0 +1,14 @@
+npm init -y
+npm i express
+npm i nodemon
+
+creating App.js file (for connecting to the server)
+
+ // Package.json
+"scripts": {       
+    "start": "node app.js",
+    "dev" : "nodemon app.js"
+  },
+
+npm i mongoose (setup monogodb atlas create cluster and connect and copy link and password)
+npm i dotenv ( for securing database password )

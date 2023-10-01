@@ -1,0 +1,31 @@
+[
+    {
+        "name" : "iphone10",
+        "price" : 1040,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "watch",
+        "price" : 1890,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "UltraProMax",
+        "price" : 10400,
+        "feature" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "s20",
+        "price" : 340,
+        "feature" : true,
+        "company" : "mi"
+    },
+    {
+        "name" : "iphone18",
+        "price" : 1040,
+        "company" : "apple"
+    }
+]
